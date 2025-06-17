@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-cricket-50 to-cricket-100 min-h-screen;
+  }
+}
+
+@layer components {
+  .card-hover {
+    @apply transform transition-all duration-300 hover:scale-105 hover:shadow-lg;
+  }
+  
+  .btn-primary {
+    @apply bg-cricket-600 hover:bg-cricket-700 text-white font-semibold py-3 px-6 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-md hover:shadow-lg;
+  }
+  
+  .btn-secondary {
+    @apply bg-white hover:bg-cricket-50 text-cricket-700 font-semibold py-3 px-6 rounded-xl border-2 border-cricket-200 hover:border-cricket-300 transition-all duration-300 transform hover:scale-105 shadow-md;
+  }
+}
