@@ -77,7 +77,7 @@ export const roleBasedQuestions = {
       id: 6,
       key: "bowling_type",
       question: "What is their bowling type?",
-      options: ["fast" , "fast-medium" , "off-spin" , "left-arm spin" , "leg-spin"]
+      options: ["fast" , "fast-medium" ,"medium-fast", "off-spin" , "left-arm spin" , "leg-spin"]
     }
   ],
   "All-rounder": [

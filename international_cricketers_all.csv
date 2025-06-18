@@ -1,0 +1,92 @@
+id,firstname,lastname,fullname,battingstyle,bowlingstyle,country_id,country_name,current_or_retired,batting_hand,bowling_type,batting_position,formats_played,achievements,role
+1,Virat,Kohli,Virat Kohli,Right-handed,,91,India,Current,,,Top-order,"Test, ODI, T20I","Former India captain, 70+ international centuries",Batsman
+2,Rohit,Sharma,Rohit Sharma,Right-handed,,91,India,Current,,,opener,"Test, ODI, T20I","India captain, 3 ODI double centuries, IPL titles",Batsman
+3,Joe,Root,Joe Root,Right-handed,,2,England,Current,,,Middle-order,"Test, ODI, T20I","Former England captain, 30+ Test centuries",Batsman
+4,Kane,Williamson,Kane Williamson,Right-handed,,3,New Zealand,Current,,,Top-order,"Test, ODI, T20I","New Zealand captain, WTC Final winner 2021",Batsman
+5,Steve,Smith,Steve Smith,Right-handed,,4,Australia,Current,,,Middle-order,"Test, ODI, T20I","Former Australia captain, No.1 Test batsman",Batsman
+6,Babar,Azam,Babar Azam,Right-handed,,5,Pakistan,Current,,,opener,"Test, ODI, T20I","Pakistan captain, No.1 ODI batsman",Batsman
+7,David,Warner,David Warner,Left-handed,,4,Australia,Current,,,opener,"Test, ODI, T20I","T20 World Cup winner, IPL Orange Cap winner",Batsman
+8,Ben,Stokes,Ben Stokes,Left-handed,Right-arm fast-medium,2,England,Current,Left,Fast-medium,All-rounder,"Test, ODI, T20I","England Test captain, 2019 World Cup hero",All-rounder
+9,Pat,Cummins,Pat Cummins,Right-handed,Right-arm fast,4,Australia,Current,Right,Fast,All-rounder,"Test, ODI, T20I","Australia captain, No.1 Test bowler",All-rounder
+10,Jasprit,Bumrah,Jasprit Bumrah,,Right-arm fast,91,India,Current,,Fast,Bowler,"Test, ODI, T20I","No.1 ODI bowler, unique bowling action",Bowler
+11,Kagiso,Rabada,Kagiso Rabada,,Right-arm fast,6,South Africa,Current,,Fast,Bowler,"Test, ODI, T20I","Leading wicket-taker, Purple Cap winner",Bowler
+12,Quinton,de Kock,Quinton de Kock,Left-handed,,6,South Africa,retired,,,opener,"Test, ODI, T20I","Former SA captain, wicket-keeper batsman",Batsman
+13,Jos,Buttler,Jos Buttler,Right-handed,,2,England,Current,,,Middle-order,"Test, ODI, T20I","England T20 captain, innovative wicket-keeper",Batsman
+14,MS,Dhoni,Mahendra Singh Dhoni,Right-handed,,91,India,retired,,,Middle-order,"Test, ODI, T20I","2011 World Cup winner, Captain Cool",Batsman
+15,AB,de Villiers,Abraham Benjamin de Villiers,Right-handed,,6,South Africa,retired,,,Middle-order,"Test, ODI, T20I","Mr. 360, fastest ODI centuries",Batsman
+16,Chris,Gayle,Christopher Henry Gayle,Left-handed,,7,West Indies,retired,,,opener,"Test, ODI, T20I","Universe Boss, T20 records holder",Batsman
+17,Shahid,Afridi,Shahid Afridi,Right-handed,Right-arm leg-break,5,Pakistan,retired,Right,Leg-spin,Middle-order,"Test, ODI, T20I","Boom Boom, fastest ODI century record",All-rounder
+18,Kumar,Sangakkara,Kumar Sangakkara,Left-handed,,8,Sri Lanka,retired,,,Top-order,"Test, ODI, T20I","12,000+ Test runs, elegant left-hander",Batsman
+19,Mahela,Jayawardene,Mahela Jayawardene,Right-handed,,8,Sri Lanka,retired,,,Top-order,"Test, ODI, T20I","2014 T20 World Cup winner, stylish batsman",Batsman
+20,Ricky,Ponting,Ricky Ponting,Right-handed,,4,Australia,retired,,,Top-order,"Test, ODI, T20I",2-time World Cup winning captain,Batsman
+21,Jacques,Kallis,Jacques Kallis,Right-handed,Right-arm fast-medium,6,South Africa,retired,Right,Fast-medium,Top-order,"Test, ODI, T20I","Greatest all-rounder, 13,000+ Test runs",All-rounder
+22,Shane,Warne,Shane Warne,,Right-arm leg-break,4,Australia,retired,,Leg-spin,Bowler,"Test, ODI","708 Test wickets, spin wizard",Bowler
+23,Muttiah,Muralitharan,Muttiah Muralitharan,,Right-arm off-break,8,Sri Lanka,retired,,Off-spin,Bowler,"Test, ODI, T20I","800 Test wickets, highest wicket-taker",Bowler
+24,Glenn,McGrath,Glenn McGrath,,Right-arm fast-medium,4,Australia,retired,,Fast-medium,Bowler,"Test, ODI","563 Test wickets, metronomic accuracy",Bowler
+25,Wasim,Akram,Wasim Akram,,Left-arm fast,5,Pakistan,retired,,Fast,Bowler,"Test, ODI","Sultan of Swing, 916 international wickets",Bowler
+26,Brian,Lara,Brian Lara,Left-handed,,7,West Indies,retired,,,Top-order,"Test, ODI","400* highest Test score, Prince of Trinidad",Batsman
+27,Sachin,Tendulkar,Sachin Tendulkar,Right-handed,,1,India,retired,,,Top-order,"Test, ODI","Master Blaster, 100 international centuries",Batsman
+28,Rahul,Dravid,Rahul Dravid,Right-handed,,91,India,retired,,,Top-order,"Test, ODI","The Wall, 13,288 Test runs",Batsman
+29,VVS,Laxman,Vangipurapul Venkata Sai Laxman,Right-handed,,1,India,retired,,,Middle-order,"Test, ODI","Very Very Special, Eden Gardens hero",Batsman
+30,Shoaib,Akhtar,Shoaib Akhtar,,Right-arm fast,5,Pakistan,retired,,Fast,Bowler,"Test, ODI, T20I","Rawalpindi Express, fastest delivery 161.3 km/h",Bowler
+31,Dale,Steyn,Dale Steyn,,Right-arm fast,6,South Africa,retired,,Fast,Bowler,"Test, ODI, T20I","439 Test wickets, reverse swing master",Bowler
+32,Kevin,Pietersen,Kevin Pietersen,Right-handed,,2,England,retired,,,Top-order,"Test, ODI, T20I","Switch-hit inventor, 8,181 Test runs",Batsman
+33,Alastair,Cook,Alastair Cook,Left-handed,,2,England,retired,,,opener,"Test, ODI","England's highest Test run-scorer, 12,472 runs",Batsman
+34,Brendon,McCullum,Brendon McCullum,Right-handed,,3,New Zealand,retired,,,Middle-order,"Test, ODI, T20I","Aggressive captain, fastest Test century",Batsman
+35,Daniel,Vettori,Daniel Vettori,,Slow left-arm orthodox,3,New Zealand,retired,,Left-arm spin,Bowler,"Test, ODI, T20I","362 Test wickets, left-arm spinner",Bowler
+36,Mitchell,Starc,Mitchell Starc,,Left-arm fast,4,Australia,Current,,Fast,Bowler,"Test, ODI, T20I","Left-arm pace spearhead, World Cup winner",Bowler
+37,Josh,Hazlewood,Josh Hazlewood,,Right-arm fast-medium,4,Australia,Current,,Fast-medium,Bowler,"Test, ODI, T20I","Consistent line and length, Ashes winner",Bowler
+38,Trent,Boult,Trent Boult,,Left-arm fast-medium,3,New Zealand,Current,,Fast-medium,Bowler,"Test, ODI, T20I","Swing bowler, WTC Final winner",Bowler
+39,Tim,Southee,Tim Southee,,Right-arm fast-medium,3,New Zealand,Current,,Fast-medium,Bowler,"Test, ODI, T20I","New Zealand pace leader, 350+ Test wickets",Bowler
+40,James,Anderson,James Anderson,,Right-arm fast-medium,2,England,Current,,Fast-medium,Bowler,"Test, ODI","700+ Test wickets, swing master",Bowler
+41,Stuart,Broad,Stuart Broad,,Right-arm fast-medium,2,England,retired,,Fast-medium,Bowler,"Test, ODI, T20I","604 Test wickets, aggressive fast bowler",Bowler
+42,Ravichandran,Ashwin,Ravichandran Ashwin,Right-handed,Right-arm off-break,91,India,Current,Right,Off-spin,All-rounder,"Test, ODI, T20I","500+ Test wickets, thinking cricketer",All-rounder
+43,Ravindra,Jadeja,Ravindra Jadeja,Left-handed,Slow left-arm orthodox,91,India,Current,Left,Left-arm spin,All-rounder,"Test, ODI, T20I","Sir Jadeja, premier all-rounder",All-rounder
+44,Mohammed,Shami,Mohammed Shami,,Right-arm fast,91,India,Current,,Fast,Bowler,"Test, ODI, T20I","Reverse swing specialist, 200+ Test wickets",Bowler
+45,Hardik,Pandya,Hardik Pandya,Right-handed,Right-arm fast-medium,91,India,Current,Right,Fast-medium,All-rounder,"Test, ODI, T20I","T20 World Cup winner, dynamic all-rounder",All-rounder
+46,Shakib,Al Hasan,Shakib Al Hasan,Left-handed,Slow left-arm orthodox,9,Bangladesh,Current,Left,Left-arm spin,Middle-order,"Test, ODI, T20I","Bangladesh's greatest all-rounder, 4000+ runs and 600+ wickets",All-rounder
+47,Mushfiqur,Rahim,Mushfiqur Rahim,Right-handed,,9,Bangladesh,Current,,,Middle-order,"Test, ODI, T20I","Former Bangladesh captain, wicket-keeper batsman",Batsman
+48,Thisara,Perera,Thisara Perera,Left-handed,Right-arm fast-medium,8,Sri Lanka,retired,Left,Fast-medium,Middle-order,"Test, ODI, T20I","All-rounder, big-hitting capability",All-rounder
+49,Mohammad,Rizwan,Mohammad Rizwan,Right-handed,,5,Pakistan,Current,,,Middle-order,"Test, ODI, T20I","Pakistan wicket-keeper, T20 World Cup finalist",Batsman
+50,Faf,du Plessis,Faf du Plessis,Right-handed,,6,South Africa,retired,,,Top-order,"Test, ODI, T20I","Former SA captain, stylish batsman",Batsman
+51,KL,Rahul,Kannanur Lokesh Rahul,Right-handed,,91,India,Current,,,opener,"Test, ODI, T20I","Wicket-keeper batsman, IPL Orange Cap 2020",Batsman
+54,Shikhar,Dhawan,Shikhar Dhawan,Left-handed,,91,India,Retired,,,opener,"Test, ODI, T20I",Champions Trophy 2013 Golden Bat,Batsman
+55,Rishabh,Pant,Rishabh Rajendra Pant,Left-handed,,91,India,Current,,,Middle-order,"Test, ODI, T20I","Wicket-keeper, Historic Test wins in Australia and England",Batsman
+56,Cheteshwar,Pujara,Cheteshwar Arvind Pujara,Right-handed,,91,India,Current,,,Top-order,"Test, ODI","Test specialist, 2018-19 Australia series hero",Batsman
+57,Ajinkya,Rahane,Ajinkya Madhukar Rahane,Right-handed,,91,India,Current,,,Middle-order,"Test, ODI, T20I","Former Vice-captain, 2020-21 Australia series captain",Batsman
+60,Bhuvneshwar,Kumar,Bhuvneshwar Kumar Singh,,Right-arm medium-fast,91,India,Current,,Medium-fast,Bowler,"Test, ODI, T20I",Swing bowling specialist,Bowler
+61,Yuzvendra,Chahal,Yuzvendra Singh Chahal,,Right-arm leg break,91,India,Current,,Leg-spin,Bowler,"ODI, T20I",Leading T20I wicket-taker for India,Bowler
+62,Kuldeep,Yadav,Kuldeep Singh Yadav,,Slow left-arm chinaman,91,India,Current,,Left-arm chinaman,Bowler,"Test, ODI, T20I","Chinaman bowler, Hat-trick in ODIs",Bowler
+63,Ishant,Sharma,Ishant Sharma,,Right-arm fast-medium,91,India,Current,,Fast-medium,Bowler,"Test, ODI, T20I",300+ Test wickets,Bowler
+64,Umesh,Yadav,Umesh Tilak Yadav,,Right-arm fast-medium,91,India,Current,,Fast-medium,Bowler,"Test, ODI, T20I",Express pace bowler,Bowler
+65,Suryakumar,Yadav,Suryakumar Ashok Yadav,Right-handed,,91,India,Current,,,Middle-order,"ODI, T20I","T20I batting sensation, 360-degree player",Batsman
+66,Shreyas,Iyer,Shreyas Santosh Iyer,Right-handed,,91,India,Current,,,Middle-order,"Test, ODI, T20I",2023 World Cup squad member,Batsman
+67,Ishan,Kishan,Ishan Kishan,Left-handed,,91,India,Current,,,opener,"ODI, T20I","Wicket-keeper batsman, Youngest IPL centurion",Batsman
+68,Washington,Sundar,Washington Sundar,Left-handed,Right-arm off break,91,India,Current,Left,Off-spin,All-rounder,"Test, ODI, T20I","All-rounder, 2020-21 Australia series debut",All-rounder
+69,Axar,Patel,Axar Rajeshbhai Patel,Left-handed,Slow left-arm orthodox,91,India,Current,Left,Left-arm spin,All-rounder,"Test, ODI, T20I",2021 England Test series star,All-rounder
+70,Deepak,Chahar,Deepak Lokendra Chahar,,Right-arm medium-fast,91,India,Current,,Medium-fast,Bowler,"ODI, T20I","T20I hat-trick, Swing bowler",Bowler
+71,Prithvi,Shaw,Prithvi Pankaj Shaw,Right-handed,,91,India,Current,,,Top-order,"Test, ODI",Youngest Indian to score Test century on debut,Batsman
+72,Mayank,Agarwal,Mayank Krishnan Agarwal,Right-handed,,91,India,Current,,,Top-order,"Test, ODI","Test opener, Double centuries in Tests",Batsman
+73,Hanuma,Vihari,Hanuma Vihari,Right-handed,,91,India,Current,,,Middle-order,"Test, ODI","Test specialist, Gritty batsman",Batsman
+74,Wriddhiman,Saha,Wriddhiman Prasanta Saha,Right-handed,,91,India,Current,,,Middle-order,"Test, ODI, T20I","Wicket-keeper, Excellent glovework",Batsman
+75,Dinesh,Karthik,Krishna Kumar Dinesh Karthik,Right-handed,,91,India,Retired,,,Middle-order,"Test, ODI, T20I","Wicket-keeper, 2022 T20 World Cup finisher",Batsman
+76,Sanju,Samson,Sanju Viswanath Samson,Right-handed,,91,India,Current,,,Middle-order,"ODI, T20I","Wicket-keeper, IPL captain",Batsman
+77,Devdutt,Padikkal,Devdutt Padikkal,Left-handed,,91,India,Current,,,Top-order,"ODI, T20I","Young talent, Consistent IPL performer",Batsman
+78,Ruturaj,Gaikwad,Ruturaj Dashrath Gaikwad,Right-handed,,91,India,Current,,,Top-order,"ODI, T20I","IPL Orange Cap 2021, CSK captain",Batsman
+79,Tilak,Varma,Tilak Varma,Left-handed,,91,India,Current,,,Middle-order,T20I,Young T20I star,Batsman
+80,Yashasvi,Jaiswal,Yashasvi Jaiswal,Left-handed,,91,India,Current,,,opener,"Test, ODI, T20I","Test opener, Double century in Tests",Batsman
+81,Shubman,Gill,Shubman Singh Gill,Right-handed,,91,India,Current,,,opener,"Test, ODI, T20I","2023 World Cup squad, Elegant stroke-maker",Batsman
+82,Arshdeep,Singh,Arshdeep Singh,,Left-arm fast-medium,91,India,Current,,Left-arm fast-medium,Bowler,"ODI, T20I","T20 World Cup 2024 winner, Death bowling specialist",Bowler
+83,Mohammed,Siraj,Mohammed Siraj,,Right-arm fast-medium,91,India,Current,,Fast-medium,Bowler,"Test, ODI, T20I",2020-21 Australia series breakthrough,Bowler
+84,Shardul,Thakur,Shardul Narendra Thakur,Right-handed,Right-arm fast-medium,91,India,Current,Right,Fast-medium,All-rounder,"Test, ODI, T20I","Bowling all-rounder, Handy lower-order batsman",All-rounder
+85,Navdeep,Saini,Navdeep Saini,,Right-arm fast,91,India,Current,,Fast,Bowler,"Test, ODI, T20I",Express pace bowler,Bowler
+86,Varun,Chakravarthy,Varun Chakravarthy,,Right-arm off break,91,India,Current,,Mystery spin,Bowler,T20I,"Mystery spinner, IPL Purple Cap contender",Bowler
+87,Rahul,Chahar,Rahul Chahar,,Right-arm leg break,91,India,Current,,Leg-spin,Bowler,"ODI, T20I","Leg-spinner, Mumbai Indians player",Bowler
+88,Ravi,Bishnoi,Ravi Bishnoi,,Right-arm leg break,91,India,Current,,Leg-spin,Bowler,"ODI, T20I","Young leg-spinner, Google spinner",Bowler
+89,Avesh,Khan,Avesh Khan,,Right-arm fast-medium,91,India,Current,,Fast-medium,Bowler,"ODI, T20I","Pace bowler, Death bowling specialist",Bowler
+90,Harshal,Patel,Harshal Vikram Patel,,Right-arm medium-fast,91,India,Current,,Medium-fast,Bowler,"ODI, T20I","Death bowling specialist, Slower ball variations",Bowler
+91,Venkatesh,Iyer,Venkatesh Iyer,Left-handed,Right-arm medium,91,India,Current,Left,Medium pace,All-rounder,"ODI, T20I","All-rounder, KKR player",All-rounder
+92,Nitish,Rana,Nitish Kumar Reddy Rana,Left-handed,Right-arm off break,91,India,Current,Left,Off-spin,All-rounder,"ODI, T20I","All-rounder, KKR captain",All-rounder
+93,Rahul,Tripathi,Rahul Tripathi,Right-handed,,91,India,Current,,,Middle-order,"ODI, T20I",Aggressive middle-order batsman,Batsman
+94,Abhishek,Sharma,Abhishek Sharma,Left-handed,Slow left-arm orthodox,91,India,Current,Left,Left-arm spin,All-rounder,T20I,"Young all-rounder, SRH player",All-rounder
+95,Rinku,Singh,Rinku Singh,Left-handed,,91,India,Current,,,Middle-order,"ODI, T20I","Finisher, KKR player",Batsman
