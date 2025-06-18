@@ -6,7 +6,7 @@ import pandas as pd
 import os
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["https://cric-guess-frontend.vercel.app/ "])
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
